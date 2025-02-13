@@ -1,2 +1,2 @@
-pass=safknf343#$##
-user=Dragan
+pass=Koknf343#$##sta
+user=Kosta
